@@ -1,4 +1,4 @@
-# Hi there, I'm [Omkar]! 👋🛡️
+# Hi there, I'm Omkar! 👋🛡️
 
 I am a **DFIR (Digital Forensics & Incident Response) Professional** and Security Researcher. 
 N00b programmer trying to build automated triage tools, parse forensic artifacts, and reconstruct attack timelines to hunt threats and scope compromises.
