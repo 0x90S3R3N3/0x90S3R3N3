@@ -20,7 +20,7 @@ N00b programmer trying to build automated triage tools, parse forensic artifacts
 
 ### 📂 Active Projects
 - 🛠️ **[DFIR-CONQR](link):** DFIR Triage Tool.
-- 📊 **[Tool Name 2](link):** Brief 1-sentence description of your second tool.
-- 🌐 **Portfolio Website:** Visit my live DFIR portfolio at [0x90S3R3N3.github.io](https://github.com/0x90S3R3N3))
+- 📊 **[Time2Go](link):** Windows Event Timeline Analysis.
+- 🌐 **Portfolio Website:** Visit my live DFIR portfolio at [(0x90S3R3N3.github.io](https://github.com/0x90S3R3N3))
 
-📫 **How to reach me:** [(https://linkedin.com/in/omkar-likhite-5352168a)/Email Link]
+📫 **How to reach me:** [(https://linkedin.com/in/omkar-likhite-5352168a)]
